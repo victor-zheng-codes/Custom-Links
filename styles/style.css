@@ -6,8 +6,7 @@ html {
     font-size: 16px; /* px means "pixels": the base font size is now 10 pixels high  */
     font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
     /* background-color: #cd1443; */
-    background-image: url(../tennis-club/images/chess-board.jpg);
-    background-image: url(../tennis-club/images/australian_night.jpg);
+    background-image: url(../images/australian_night.jpg);
     background-size: 500%;
     background-color: #014780;
   }
